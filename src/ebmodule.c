@@ -14,12 +14,12 @@ static char *version = ""
 
 #include "Python.h"
 
-#include "eb/eb.h"
-#include "eb/appendix.h"
-#include "eb/text.h"
-#include "eb/error.h"
-#include "eb/font.h"
-#include "eb/binary.h"
+#include "ebu/eb.h"
+#include "ebu/appendix.h"
+#include "ebu/text.h"
+#include "ebu/error.h"
+#include "ebu/font.h"
+#include "ebu/binary.h"
 
 #ifndef PATH_MAX
 #ifdef MAXPATHLEN

@@ -3,4 +3,4 @@
 
 *shared*
 
-eb ebmodule.c -I/usr/local/include -L/usr/local/lib -leb -lz
+ebu ebmodule.c -I/usr/local/include -L/usr/local/lib -lebu -lz
